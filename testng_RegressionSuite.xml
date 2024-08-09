@@ -10,7 +10,7 @@
   
   <test thread-count="2" parallel="tests" name="TestRunner-2">
     <classes>
-      <class name="NormalCode.TC03BaseClass"/>
+      <class name="NormalCode.TC03BaseClass "/>
     </classes>
   </test> <!-- Test -->
   
