@@ -11,7 +11,7 @@ public class ReadDataFromCmdLine {
 		String URL = System.getProperty("url");
 		System.out.println(URL);
 		String USERNAME = System.getProperty("username");
-		System.out.println(USERNAME );
+		System.out.println(USERNAME);
 
 	}
 
